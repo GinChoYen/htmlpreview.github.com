@@ -1,3 +1,4 @@
+How to format readme on github site: bold, hyperlink, new line... 
 --  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Line Breaks
