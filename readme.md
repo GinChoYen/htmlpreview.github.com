@@ -1,4 +1,5 @@
 --  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 Line Breaks
 My basic recommendation for learning how line breaks work is to experiment and discover -- hit <Enter> once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. "Markdown Toggle" is your friend.
 
